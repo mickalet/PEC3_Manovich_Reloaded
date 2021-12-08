@@ -11,7 +11,7 @@ Fecha: 8 de diciembre de 2021
 ## Planteamiento
 Comenzamos la tercera práctica de la asignatura de Cultura Digital. En este caso se nos plantea investigar y analizar 2 casos actuales de hibidación:
 - [Microsoft Teams](https://www.microsoft.com/es-es/microsoft-teams/group-chat-software)
-- [Electrodomésticos Miro](https://www.miro.es/)
+- [Electrodomésticos Miro](https://github.com/mickalet/PEC3_Manovich_Reloaded/blob/main/README.md#re-descubriendo-la-hibridaci%C3%B3n-caso-2---electrodom%C3%A9sticos-mir%C3%B3)
 
 ---
 
