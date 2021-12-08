@@ -17,7 +17,8 @@ Comenzamos la tercera práctica de la asignatura de Cultura Digital. En este cas
 
 ## Re-descubriendo la hibridación: Caso 1 - Microsoft Teams
 
-Wikipedia define Microsoft Teams como
+[Wikipedia](https://es.wikipedia.org/wiki/Microsoft_Teams) define Microsoft Teams como:
+
 >Microsoft Teams es una plataforma unificada de comunicación y colaboración que combina chat persistente en el lugar de trabajo, reuniones de video, almacenamiento de archivos (incluida la colaboración en archivos) e integración de aplicaciones.  
 
 [![Empezar a usar Teams](https://imgur.com/zvTzjPV.png)](https://www.youtube.com/watch?v=ypu2xGB_Kcg "Click para ver") 
@@ -46,9 +47,11 @@ Como última novedad, que me parece fantástica en cuanto a evolución de softwa
 
 [![Escenas personalizadas](https://docs.microsoft.com/es-es/microsoftteams/platform/assets/images/apps-in-meetings/launchtogethermode.png)](https://docs.microsoft.com/es-es/microsoftteams/platform/apps-in-teams-meetings/teams-together-mode "Escenas Personalizadas")
 
-[After Efects](https://www.adobe.com/es/products/aftereffects.html) fue una revolución en su tiempo, tal y como analiza Manovich en su libro El Software toma el mando; y como podemos comprobar, Teams ha llegado para quedarse. Este año 2020, con el COVID, hemos tenido una pandemia mundial, paralizando el sistema tal y como lo conociamos, y gracias a este software, entre otros como [ZOOM](https://zoom.us/), [Google Meet](https://meet.google.com/), [Cisco Webex](https://www.webex.com/es/index.html); han logrado que el sistema siguiera en marcha, pudiendo las empresas y los centros educativos seguir funcionando de manera telemática. Reuniones con clientes y compañeros, trabajos en equipo, clases online, webinars, conferencias... Uno de los aspectos positivos de esta crisis es que la sociedad se ha tenido que adaptar al trabajo on-line, y, gracias a la evolución de medios con estas herramientas hibridas nos facilitan el trabajo, solo tenemos que aprovecharlas.
+[After Efects](https://www.adobe.com/es/products/aftereffects.html) fue una revolución en su tiempo, tal y como analiza Manovich en su libro El Software toma el mando; y como podemos comprobar, Teams ha llegado para quedarse. Este año pasado 2020, con el COVID, hemos tenido una pandemia mundial, paralizando el sistema tal y como lo conociamos, y gracias a este software, entre otros como [ZOOM](https://zoom.us/), [Google Meet](https://meet.google.com/), [Cisco Webex](https://www.webex.com/es/index.html); han logrado que el sistema siguiera en marcha, pudiendo las empresas y los centros educativos seguir funcionando de manera telemática. Reuniones con clientes y compañeros, trabajos en equipo, clases online, webinars, conferencias... Uno de los aspectos positivos de esta crisis es que la sociedad se ha tenido que adaptar al trabajo on-line gracias a la evolución de medios con estas herramientas hibridas nos facilitan el trabajo, solo tenemos que aprovecharlas.
 
+---
 
+## Re-descubriendo la hibridación: Caso 2 - Electrodomésticos Miro
 
 
 ### Biografía
