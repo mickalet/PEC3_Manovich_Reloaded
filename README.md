@@ -53,6 +53,10 @@ Como última novedad, que me parece fantástica en cuanto a evolución de softwa
 
 ## Re-descubriendo la hibridación: Caso 2 - Electrodomésticos Miro
 
+[La historia](https://www.miro.es/quienes-somos "Electodomésticos Miro") de esta empresa Catalana comienza en el año 1971, con su primera tienda física en Martorell, Barcelona, consiguiendo en pocos años expandirse por todo el territorio nacional.
+
+Navegando por internet encontramos alguna captura de pantalla de su [web](https://web.archive.org/web/20110902104031/http://www.miro.es/tiendas/ "Pincha para ver la captura") por el año 2011, un año antes de que comenzaran a tener venta on-line
+
 
 ### Biografía
 https://es.wikipedia.org/wiki/Microsoft_Teams
