@@ -89,6 +89,7 @@ Creo que Electrodomésticos Miró ha conseguido modernizarse y adaptarse a los n
 ### Biografía
 - Wikipedia(2021) **Microsoft Teams** [en línea] [fecha de consulta: 5 de diciembre de 2021]. Disponible en https://es.wikipedia.org/wiki/Microsoft_Teams
 - Microsoft.com  **Descripción del servicio Microsoft Teams** [en línea] [fecha de consulta: 5 de diciembre de 2021]. Disponible en https://docs.microsoft.com/es-es/office365/servicedescriptions/teams-service-description
+- Microsoft.com  **Comenzar a usar Microsoft Teams** [en línea] [fecha de consulta: 5 de diciembre de 2021]. Disponible en https://www.youtube.com/watch?v=ypu2xGB_Kcg
 - Miro.es  **Web Electrodomésticos Miró** [en línea] [fecha de consulta: 7 de diciembre de 2021]. Disponible en https://www.miro.es/quienes-somos/
 - Manovich, L. (2013). **El software toma el mando** (diciembre 2013). Editorial UOC
 
