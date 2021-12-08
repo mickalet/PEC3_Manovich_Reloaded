@@ -22,9 +22,11 @@ Wikipedia define Microsoft Teams como
 
 [![Empezar a usar Teams](https://imgur.com/zvTzjPV.png)](https://www.youtube.com/watch?v=ypu2xGB_Kcg "Click para ver") 
 
-Microsoft lanzó en Marzo de 2017 esta aplicacion hibrida, consiguiendo agrupar distinto software, independientemente que sean o no productos de Microsoft, en una sola APP. Es como un "all in one" dentro de una misma aplicación, no es necesario salir de la misma para poder chatear con mensajeria instantanea, hacer videoconferencias, realizar trabajo colaborativo, presentar proyectos on-line, compartir pantalla y dar permisos para acceder a un ordenador remoto, y otras muchas opciones para trabajar en internet. 
-La gran ventaja de Teams es que no hay que instalar distintas versiones; el administrador debe adaptar el software a las necesidades de su empresa, pero no sólo eso, sino que ademas han hibridado el software para que, desde un sencillo navegador de internet puedas trabajar con muchas de estas opciones, independientemente del equipo que tengas, un ordenador con cualquier sistema operativo (MAC OsX, Windows, Linux), un movil, una tablet. 
+Microsoft lanzó en Marzo de 2017 esta aplicacion hibrida, consiguiendo agrupar distinto software, independientemente que sean o no productos de Microsoft, en una sola APP. Es como un "all in one" dentro de una misma aplicación, no es necesario salir de la misma para poder chatear con mensajeria instantanea, hacer videoconferencias, realizar trabajo colaborativo, presentar proyectos on-line, compartir pantalla y dar permisos para acceder a un ordenador remoto, y otras muchas opciones para trabajar en internet.  
 
+La gran ventaja de Teams es que tienes disponible en su [web](https://docs.microsoft.com/es-es/microsoftteams/get-clients "Descarga Microsoft Teams") paquetes para los distintos sistemas operativos que actualmente conviven en el mercado, Windows, MAC OsX y Linux; el administrador TI debe adaptar el software a las necesidades de su empresa para poder aprovechar todas las caracteristicas de este en relación a tus necesidades; pero no sólo eso, sino que ademas han hibridado el software para que, desde cualquier navegador de internet puedas trabajar con muchas de estas opciones, independientemente del equipo que tengas, un ordenador con cualquier sistema operativo, un movil, una tablet.  
+
+Dispone de distintas caracteristicas que a continuación detallo
 ### Características
 - Aplicaciones, Bots, & Connectors
 - Audioconferencia
@@ -36,9 +38,17 @@ La gran ventaja de Teams es que no hay que instalar distintas versiones; el admi
 - Pantalla compartida PowerPoint escritorio de audio y vídeo
 - Teams
 - Voz
-- Seminarios web
+- Seminarios web  
 
-Teams es un claro ejemplo de como se ha integrado la multimedia en una sola APP; podemos ver videos, hacer videoconferencias, 
+Y sin entrar en profundidad en cada una de ellas, vemos como integra muchas caracteristicas multimedia, como audio y videoconferencia, mensajeria instantanea, reuniones y presentaciones, crear salas y subsalas de reuniones, y muchas mas caracteristicas que nos da para crear un repositorio con todas ellas.  
+
+Como última novedad, que me parece fantastica en cuanto a evolucion de software de medios, se pueden crear [Escenas personalizadas en modo conjunto](https://docs.microsoft.com/es-es/microsoftteams/platform/apps-in-teams-meetings/teams-together-mode "Pincha en el enlace"). Con esto podemos crear salas de reuniones lo mas parecido a una sala real pero de manera totalmente virtual, el software detecta por la webcam a la persona y lo integra en un escenario virtual, bien creado por el software o bien creado por ti, dando la apariencia que estas en una reunión fisica. Es un caso de hibridación de medios muy claro, integrando video, audio, fondos, chat, dando una solución a un problema actual, que son las reuniones presenciales, recreandolas de manera virtual.  
+
+[![Escenas personalizadas](https://docs.microsoft.com/es-es/microsoftteams/platform/assets/images/apps-in-meetings/launchtogethermode.png)](https://docs.microsoft.com/es-es/microsoftteams/platform/apps-in-teams-meetings/teams-together-mode "Escenas Personalizadas")
+
+
+Gracias a este avance, no tan solo se ha logrado 
+
 
 
 
