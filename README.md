@@ -4,7 +4,7 @@
 
 Autor: Miguel Peiró Belenguer
 
-Fecha: 7 de diciembre de 2021
+Fecha: 8 de diciembre de 2021
 
 
 
@@ -40,7 +40,7 @@ La gran ventaja de Teams es que tienes disponible en su [web](https://docs.micro
 - Voz
 - Seminarios web  
 
-Y sin entrar en profundidad en cada una de ellas, vemos como integra muchas características multimedia, como audio y videoconferencia, mensajería instantanea, reuniones y presentaciones, crear salas y subsalas de reuniones, y muchas más caracteríssticas que nos da para crear un repositorio detallando cada una de ellas.  
+Y sin entrar en profundidad en cada una de ellas, vemos como integra muchas características multimedia, como audio y videoconferencia, mensajería instantanea, reuniones y presentaciones, crear salas y subsalas de reuniones, y muchas más características que nos da para crear un repositorio detallando cada una de ellas.  
 
 Como última novedad, que me parece fantástica en cuanto a evolución de software de medios se refiere, es que se pueden crear [Escenas personalizadas en modo conjunto](https://docs.microsoft.com/es-es/microsoftteams/platform/apps-in-teams-meetings/teams-together-mode "Pincha en el enlace"). Con esto podemos crear salas de reuniones lo más parecido a una sala de reuniones real, pero de manera totalmente virtual, el software detecta por la webcam a la persona y lo integra en un escenario virtual, bien creado por el software o bien creado por ti, dando la apariencia que estas en una reunión física. Es un caso de hibridación de medios muy claro, integrando video, audio, fondos, chat, dando una solución a un problema actual, que son las reuniones presenciales, recreándolas de manera virtual.  Gracias a este avance, no tan solo se ha logrado solucionar el problema a la imposibilidad de poder tener, en ciertos casos, reuniones presenciales, sino que además han logrado, ahorrar costes a las empresas en cuanto a desplazamientos, alojamientos y tiempos en reuniones para poder realizar ventas, acuerdos, proyectos, etc., optimizando mucho más la productividad.
 
@@ -51,29 +51,41 @@ Como última novedad, que me parece fantástica en cuanto a evolución de softwa
 
 ---
 
-## Re-descubriendo la hibridación: Caso 2 - Electrodomésticos Miro
+## Re-descubriendo la hibridación: Caso 2 - Electrodomésticos Miró
 
-[La historia](https://www.miro.es/quienes-somos "Electodomésticos Miro") de esta empresa Catalana comienza en el año 1971, con su primera tienda física en Martorell, Barcelona, consiguiendo en pocos años expandirse por todo el territorio nacional.
+[La historia](https://www.miro.es/quienes-somos "Electrodomésticos Miró") de esta empresa Catalana comienza en el año 1971, con su primera tienda física en Martorell, Barcelona, consiguiendo en pocos años expandirse por todo el territorio nacional.
 
-Por aquellos entoces toda la venta se realizaba en tiendas fisicas, llegando a sus clientes con catalogos impresos, buzoneo y siendo una tienda de proximidad y confianza, Sus inicios en internet fueron en el año 2002, creando una web informativa, con poca parte multimedia, tan solo algunas imagenes y el catalogo de productos en archivo PDF que tenias que descargar, y un apartado donde te podias registrar con tu e-mail para recibir las ofertas en tu correo, Podemos decir que fueron unos adelantados a su tiempo con el marketing on-line. Navengado por la web [archive.org](https://archive.org/) encontramos alguna captura de pantalla de su [web](https://web.archive.org/web/20110902104031/http://www.miro.es/tiendas/ "Pincha para ver la captura") en  el año 2011, justo un año antes de que comenzaran a tener venta on-line. 
+![Miro](https://www.miro.es/media/01-02_Banner_DESK.png)
 
-En el año 2012 crean su primera versión de web e-commerce, para la venta on-line de sus productos, adaptandose al las tendencias del mercado y, aprovechandose de los nuevos medios que se estaban creando, poder llegar a más clientes, mas lejos y de una manera más sencilla. En este caso, lo que logra Miro, es adaptar el medio que tenian funcionando de manera física con sus tiendas en un medio on-line, con mejoras en su web. 
+
+Por aquellos entonces toda la venta se realizaba en tiendas físicas, llegando a sus clientes con catálogos impresos, buzoneo y siendo una tienda de proximidad y confianza, Sus inicios en internet fueron en el año 2002, creando una web informativa, con poca parte multimedia, tan solo algunas imágenes y el catálogo de productos en archivo PDF que tenías que descargar, y un apartado donde te podías registrar con tu e-mail para recibir las ofertas en tu correo, Podemos decir que fueron unos adelantados a su tiempo con el marketing on-line. Navegando por la web [archive.org](https://archive.org/) encontramos alguna captura de pantalla de su [web](https://web.archive.org/web/20110902104031/http://www.miro.es/tiendas/ "Pincha para ver la captura") en  el año 2011, justo un año antes de que comenzaran a tener venta on-line. 
+
+En el año 2012 crean su primera versión de web e-commerce, para la venta on-line de sus productos, adaptándose a las tendencias del mercado y, aprovechándose de los nuevos medios que se estaban creando, poder llegar a más clientes, más lejos y de una manera más sencilla. En este caso, lo que logra Miro, es adaptar el medio que tenían funcionando de manera física con sus tiendas en un medio on-line, con mejoras en su web. 
 
 Analicemos la actual web y los medios que ha logrado adaptar.
 
-- Web sencilla y con mucha información gracias a las imagenes cuidadas y los banners con ofertas de temporada, llamando la atención del cliente.
+- Web sencilla y con mucha información gracias a las imágenes cuidadas y los banners con ofertas de temporada, llamando la atención del usuario
 - Apartado de novedades tecnológicas, muy en actualidad
 - Zona de lo más vendido, gracias a los algoritmos internos de la página muestra los productos Top 10
 - Pago seguro en la web, de vital importancia para generar confianza
 - Contacto, con distintos correos y teléfonos para atención al cliente
-- Menu categorizado y simplificado para encontrar facilmente los articulos
-- Blog actualizado, dando sensación al cliente que están activos y les importa el cliente on-line
+- Menú categorizado y simplificado para encontrar fácilmente los artículos
+- Blog actualizado, dando sensación al usuario que están activos y les importa el cliente on-line
+- Enlaces a RRSS donde poder comunicarse con usuarios, realizando campañas e informando en tiempo real
 
+Como vemos, Miró ha logrado adaptar todos los medios que tenían en la tienda física, al mundo virtual. Esto es lo que podemos ver en la parte de la web llamada Front End, es decir, lo que el usuario puede ver, pero si pensamos un poco más en todo lo que hay detrás de esta web, veremos que hay mucho desarrollo. Se puede, en la parte de Back End, mediante algoritmia, ver que productos son los más vendidos, se puede analizar que clientes son los que más compran, que productos tienen más margen, trazabilidad de entregas con los transportistas, pasarelas de pago seguras con [VISA](https://www.visa.es/), [Paypal](https://www.paypal.com/es/home), [Mastercard](https://www.mastercard.es/es-es.html), [Sequra](https://www.sequra.es/), facturación y control de stocks, campañas y mucho más.
 
+Poniéndonos las gafas de Manovich, vemos como Miró logra integrar en su web lo que sería la gestión integral de una tienda física, incluso mejorarla, gracias al software y a los datos almacenados, pero además, con las imágenes del producto, no es necesario tener el producto físicamente, el cliente puede verlo en distintos ángulos, leyendo características del mismo. Logra llegar a más clientes de cualquier parte, aunque no tengan una tienda física en su localidad.  
+
+Creo que Electrodomésticos Miró ha conseguido modernizarse y adaptarse a los nuevos medios gracias a una página web sencilla y completa, logrando interactuar con el usuario y de esta forma lograr más ventas, ademas de una reducción de costes por la adaptación del software a la gestión.
 
 ---
 
 ### Biografía
-- https://es.wikipedia.org/wiki/Microsoft_Teams
-- Descripción del servicio Microsoft Teams https://docs.microsoft.com/es-es/office365/servicedescriptions/teams-service-description
-- https://www.miro.es/quienes-somos/
+- Wikipedia(2021) **Microsoft Teams** [en línea] [fecha de consulta: 5 de diciembre de 2021]. Disponible en https://es.wikipedia.org/wiki/Microsoft_Teams
+- Microsoft.com  **Descripción del servicio Microsoft Teams** [en línea] [fecha de consulta: 5 de diciembre de 2021]. Disponible en https://docs.microsoft.com/es-es/office365/servicedescriptions/teams-service-description
+- Miro.es  **Web Electrodomésticos Miró** [en línea] [fecha de consulta: 7 de diciembre de 2021]. Disponible en https://www.miro.es/quienes-somos/
+- Manovich, L. (2013). **El software toma el mando** (diciembre 2013). Editorial UOC
+
+---
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0.
