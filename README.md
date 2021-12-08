@@ -55,9 +55,10 @@ Como última novedad, que me parece fantástica en cuanto a evolución de softwa
 
 [La historia](https://www.miro.es/quienes-somos "Electodomésticos Miro") de esta empresa Catalana comienza en el año 1971, con su primera tienda física en Martorell, Barcelona, consiguiendo en pocos años expandirse por todo el territorio nacional.
 
-Navegando por internet encontramos alguna captura de pantalla de su [web](https://web.archive.org/web/20110902104031/http://www.miro.es/tiendas/ "Pincha para ver la captura") por el año 2011, un año antes de que comenzaran a tener venta on-line
+Por aquellos entoces toda la venta se realizaba en tiendas fisicas, llegando a sus clientes con catalogos impresos, buzoneo y siendo una tienda de proximidad y confianza, Sus inicios en internet fueron en el año 2002, creando una web informativa, con poca parte multimedia, tan solo algunas imagenes y el catalogo de productos en archivo PDF que tenias que descargar, y un apartado donde te podias registrar con tu e-mail para recibir las ofertas en tu correo, Podemos decir que fueron unos adelantados a su tiempo con el marketing on-line. Navengado por la web {archive.org](https://archive.org/) encontramos alguna captura de pantalla de su [web](https://web.archive.org/web/20110902104031/http://www.miro.es/tiendas/ "Pincha para ver la captura") en  el año 2011, justo un año antes de que comenzaran a tener venta on-line. 
 
 
 ### Biografía
-https://es.wikipedia.org/wiki/Microsoft_Teams
-Descripción del servicio Microsoft Teams https://docs.microsoft.com/es-es/office365/servicedescriptions/teams-service-description
+- https://es.wikipedia.org/wiki/Microsoft_Teams
+- Descripción del servicio Microsoft Teams https://docs.microsoft.com/es-es/office365/servicedescriptions/teams-service-description
+- https://www.miro.es/quienes-somos/
