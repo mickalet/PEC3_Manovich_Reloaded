@@ -59,13 +59,19 @@ Por aquellos entoces toda la venta se realizaba en tiendas fisicas, llegando a s
 
 En el año 2012 crean su primera versión de web e-commerce, para la venta on-line de sus productos, adaptandose al las tendencias del mercado y, aprovechandose de los nuevos medios que se estaban creando, poder llegar a más clientes, mas lejos y de una manera más sencilla. En este caso, lo que logra Miro, es adaptar el medio que tenian funcionando de manera física con sus tiendas en un medio on-line, con mejoras en su web. 
 
-Analicemos la actual web y los medios que ha logrado adapatar. 
+Analicemos la actual web y los medios que ha logrado adaptar.
+
 - Web sencilla y con mucha información gracias a las imagenes cuidadas y los banners con ofertas de temporada, llamando la atención del cliente.
-- Zona de novedades tecnológicas, muy en actualidad
+- Apartado de novedades tecnológicas, muy en actualidad
 - Zona de lo más vendido, gracias a los algoritmos internos de la página muestra los productos Top 10
 - Pago seguro en la web, de vital importancia para generar confianza
 - Contacto, con distintos correos y teléfonos para atención al cliente
 - Menu categorizado y simplificado para encontrar facilmente los articulos
+- Blog actualizado, dando sensación al cliente que están activos y les importa el cliente on-line
+
+
+
+---
 
 ### Biografía
 - https://es.wikipedia.org/wiki/Microsoft_Teams
